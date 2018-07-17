@@ -1,7 +1,3 @@
-GitPitch.com を使って見る
-
----
-
 I love you.
 
 +++
