@@ -21,19 +21,27 @@ GitHub と MarkDown 記法を使ったプレゼンテーション公開機能
     - 右に新しいスライドを作る場合は ``---`` で区切り、下に新しいスライドを作る場合は ``+++`` で区切る。
 
 ```
-Hello!
+I love you.
 
 +++
 
-愛してます！
+愛してます。
 
 ---
 
-Je t'ame.
+Je t'aime.
 
 +++
 
-我愛称
+我爱你。
+
+---
+
+사랑해.
+
++++
+
+أحبك.
 ```
 
 - [https://gitpitch.com/user/repo](https://gitpitch.com/dotnsf/gitpitch) にアクセスしてスライド参照
