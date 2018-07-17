@@ -36,4 +36,4 @@ Je t'ame.
 我愛称
 ```
 
-- https://gitpitch.com/user/repo にアクセスしてスライド参照
+- [https://gitpitch.com/user/repo](https://gitpitch.com/dotnsf/gitpitch) にアクセスしてスライド参照
